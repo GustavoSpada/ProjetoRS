@@ -41,7 +41,8 @@ body *{
 
 #container{
   /*#container: responsavel por uma caixa com limite determinado que contem dentro o switch e o profile*/
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: auto;
   margin-top: 56px;
   padding: 0 24px;
